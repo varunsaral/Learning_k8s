@@ -1,1 +1,1 @@
-# Learning_k8s
+This repo is for learning kubernetes . Will come back to this for reference in future 
